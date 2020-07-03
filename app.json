@@ -1,0 +1,12 @@
+{
+  "name": "rn-crud",
+  "displayName": "rn-crud",
+  "expo": {
+    "name": "rn-crud",
+    "slug": "rn-crud",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
